@@ -1,16 +1,33 @@
-# todo_app
+# ToDo Uygulaması
 
-A new Flutter project.
 
-## Getting Started
+**ToDo Uygulaması**, Flutter ile geliştirilmiş, kişisel bilgiler, tema yönetimi, bildirimler ve kapsamlı görev yönetimi özelliklerine sahip modern bir yapılacaklar listesi uygulamasıdır. Kullanıcı dostu arayüzü ve özelleştirilebilir ayarlarıyla günlük işlerinizi organize etmenize yardımcı olur.
 
-This project is a starting point for a Flutter application.
+## 🚀 Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+- **Kişisel Bilgiler:** Ad, cinsiyet, doğum tarihi ve profil fotoğrafı ekleme.
+- **Tema Yönetimi:** Karanlık ve aydınlık mod arasında geçiş yapabilme.
+- **Bildirimler:** Görevler için zamanlanmış bildirimler ve geri sayım zamanlayıcıları.
+- **Görev Yönetimi:** Görev ekleme, düzenleme, silme ve tamamlanma durumu takibi.
+- **Lokalizasyon:** İngilizce ve Türkçe dillerini destekler.
+- **Durum Yönetimi:** Provider paketi ile etkili durum yönetimi.
+- **Veri Depolama:** SharedPreferences ile kalıcı veri depolama.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Teknolojiler
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter:** Mobil uygulama geliştirme.
+- **Provider:** Durum yönetimi.
+- **Awesome Notifications:** Bildirim entegrasyonu.
+- **SharedPreferences:** Veri depolama.
+- **Image Picker & Path Provider:** Profil fotoğrafı seçme ve saklama.
+- **Flutter Localizations:** Çoklu dil desteği.
+
+
+
+## 📥 Kurulum
+
+### 1. Depoyu Klonlayın
+
+```bash
+git clone https://github.com/kullanici_adi/todo_app.git
+cd todo_app
